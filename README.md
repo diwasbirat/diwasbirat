@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, and building full-stack applications**
 - 👨‍💻 All of my projects are available at [diwashpoudel.com.np](https://diwashpoudel.com.np)
-- 🚀 Working at **Velocis Core** — IT solutions & 3D printing filament manufacturer
+- 🚀 Working at **Velocis Core** — IT solutions
 - 💼 Currently building **Hospital Management System (MERN)** and **JCB Rental Management System (MERN)**
 - 📫 Reach me at: **diwasbirat@gmail.com**
 - ⚡ Fun fact: I learn best by **breaking things and fixing them!** 😄
@@ -31,21 +31,21 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velocis-core&show_icons=true&theme=radical" alt="diwas stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diwasbirat&show_icons=true&theme=radical" alt="diwas stats"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velocis-core&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwasbirat&theme=radical" alt="streak"/>
 </p>
 
 ---
 
 ### 📈 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velocis-core&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwasbirat&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
 ---
