@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwas Poudel</h1>
 <h3 align="center">Web Developer | MERN Stack Enthusiast | IT Professional</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&lines=Self-Taught+Developer;MERN+Stack+Learner;Problem+Solver;Coding+%26+Creating" alt="Typing SVG" />
-</p>
+
 
 ---
 
